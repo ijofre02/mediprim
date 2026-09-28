@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1254 1254"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">MediPrem logo</title>
+  <desc id="desc">Red central symbol surrounded by six gray radio waves.</desc>
+
+  <g class="waves" fill="none" stroke="#707070" stroke-width="27">
+    <circle class="wave wave-1" cx="626.5" cy="578.5" r="46"/>
+    <circle class="wave wave-2" cx="626.5" cy="578.5" r="121"/>
+    <circle class="wave wave-3" cx="626.5" cy="578.5" r="196"/>
+    <circle class="wave wave-4" cx="626.5" cy="578.5" r="271"/>
+    <circle class="wave wave-5" cx="626.5" cy="578.5" r="346"/>
+    <circle class="wave wave-6" cx="626.5" cy="578.5" r="421"/>
+  </g>
+
+  <g class="symbol">
+    <circle cx="626.2" cy="428" r="137" fill="#B31218"/>
+    <rect x="494.5" y="595.5" width="263" height="440" fill="#B31218"/>
+  </g>
+</svg>
