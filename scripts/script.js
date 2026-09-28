@@ -79,3 +79,8 @@ document.addEventListener('DOMContentLoaded', function () {
   checkOpenNow();
 });
 
+/* Current Year, Last Midified */
+const year = document.querySelector("#currentYear");
+year.textContent = new Date().getFullYear();
+// I use both forms to remember — the long way and the short way
+document.getElementById("lastModified").innerHTML = document.lastModified;
